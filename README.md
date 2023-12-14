@@ -1,0 +1,2 @@
+flutter application which defines a simple app UI with a button that triggers a stateful dialog. The showInformationDialog function creates a dialog with a text input field and a checkbox. The user must enter text, and the checkbox allows for a binary choice.
+The entered text is validated, and if valid, the dialog is dismissed. This code illustrates basic usage of a stateful dialog in Flutter for user input.
